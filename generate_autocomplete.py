@@ -22,17 +22,21 @@ REPETITION_PENALTY = 1.1
 # -----------------------------------------------
 
 
-def generate(prompt: str, **kwargs) -> str:
-    """Return the model's completion for *prompt*."""
-    tokenizer = AutoTokenizer.from_pretrained(MODEL_DIR, trust_remote_code=True)
+def load_model(model_dir: str = MODEL_DIR):
+    """Load tokenizer and LoRA-adapted model (call once, reuse for many prompts)."""
+    tokenizer = AutoTokenizer.from_pretrained(model_dir, trust_remote_code=True)
     model = AutoPeftModelForCausalLM.from_pretrained(
-        MODEL_DIR,
+        model_dir,
         device_map="auto",
         torch_dtype=torch.float16,
         trust_remote_code=True,
     )
     model.eval()
+    return tokenizer, model
 
+
+def generate(prompt: str, tokenizer, model, **kwargs) -> str:
+    """Return the model's completion for *prompt*."""
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
 
     with torch.no_grad():
@@ -52,8 +56,9 @@ def generate(prompt: str, **kwargs) -> str:
 
 
 def main():
+    tokenizer, model = load_model()
     print(f"Prompt:     {PROMPT}")
-    completion = generate(PROMPT)
+    completion = generate(PROMPT, tokenizer, model)
     print(f"Completion: {completion}")
     print(f"Full text:  {PROMPT}{completion}")
 
