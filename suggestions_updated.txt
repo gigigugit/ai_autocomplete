@@ -1,0 +1,380 @@
+with
+without
+however
+therefore
+moreover
+furthermore
+additionally
+meanwhile
+otherwise
+regarding
+concerning
+with respect to
+in regard to
+due to
+because of
+owing to
+before
+after
+during
+while
+related to
+in relation to
+associated with
+consistent with
+inconsistent with
+as-is
+as needed
+as tolerated
+as directed
+standard
+routine
+not reported
+noted
+documented
+change
+changes
+changed
+changing
+review
+reviews
+reviewed
+reviewing
+receive
+received
+receives
+receiving
+request
+requests
+requesting
+requested
+written
+write
+writes
+writing
+writer
+described
+describe
+describes
+describing
+today
+yesterday
+tomorrow
+daily
+weekly
+monthly
+yearly
+every day
+every other day
+as-needed
+PRN
+there are
+there were
+there will be
+there is
+there was
+there has been
+their
+them
+they
+e-visit
+follow-up
+check-in
+check in
+recheck
+I'm
+I've
+I'd
+I'll
+you're
+you've
+you'll
+you'd
+we've
+we'll
+we'd
+they're
+they've
+they'll
+they'd
+can't
+couldn't
+don't
+doesn't
+didn't
+isn't
+aren't
+wasn't
+weren't
+hasn't
+haven't
+hadn't
+mightn't
+mustn't
+shouldn't
+wouldn't
+could've
+should've
+would've
+let's
+here's
+there's
+who's
+what's
+where's
+when's
+why's
+how's
+symptom
+symptoms
+side effect
+side effects
+without side effects
+treatment
+treatments
+treated
+treat
+treating
+patient
+patients
+f/u per routine
+history
+history of
+diagnosis
+diagnosed
+question
+questions
+questioning
+questionnaire
+management
+anxiety
+prescription
+prescriptions
+prescribed
+prescribe
+prescription for
+prescribed for
+prescribing
+prescription written
+prescription written, follow-up per routine
+normal
+within normal limits
+borderline
+elevated
+low
+high
+level
+levels
+message
+messages
+medication
+medications
+dose
+dosage
+once daily
+twice daily
+three times daily
+four times daily
+at bedtime
+in the morning
+in the evening
+1 month
+2 months
+3 months
+5 months
+6 months
+12 months
+every 1 month
+every 2 months
+every 3 months
+quarterly
+every 5 months
+every 6 months
+every 12 months
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+sex-hormone binding globulin (SHBG)
+sex-hormone binding globulin
+prostate-specific antigen (PSA)
+PSA
+follicle-stimulating hormone (FSH)
+follicle-stimulating hormone
+luteinizing hormone (LH)
+luteinizing hormone
+testosterone
+total testosterone
+free testosterone
+estradiol
+hematocrit (Hct)
+hematocrit
+hematocrit (the percentage of your blood made up of red blood cells)
+albumin
+creatinine
+GFR
+enclomiphene
+enclomiphene/tadalafil
+enclomiphene 12.5 mg
+enclomiphene 25 mg
+enclomiphene/tadalafil 12.5mg/8.5mg
+enclomiphene/tadalafil 25mg/8.5mg
+enclomiphene/tadalafil daily
+enclomiphene 12.5 mg daily
+enclomiphene 25 mg daily
+enclomiphene/tadalafil 12.5mg/8.5mg daily
+enclomiphene/tadalafil 25mg/8.5mg daily
+enclomiphene 12.5 mg every other day
+enclomiphene 25 mg every other day
+enclomiphene/tadalafil 12.5mg/8.5mg every other day
+enclomiphene/tadalafil 25mg/8.5mg every other day
+sildenafil
+sildenafil 40 mg
+sildenafil 60 mg
+sildenafil 80 mg
+sildenafil 100 mg as needed
+Chewable Tablet Sildenafil
+Chewable Tablet Sildenafil, 45 mg
+Chewable Tablet Sildenafil, 56 mg
+Chewable Tablet Sildenafil / Tadalafil / B12
+Chewable Tablet Sildenafil / Tadalafil / B12, 56mg / 8.5mg
+Chewable Tablet Sildenafil / Tadalafil / B12, 83mg / 11.2mg
+vardenafil
+Chewable Tablet Vardenafil, 11.2 mg
+Chewable Tablet Tadalafil / Vardenafil
+Chewable Tablet Tadalafil / Vardenafil 8.5mg / 8.5mg
+Chewable Tablet Tadalafil / Vardenafil 11.2mg / 11.2mg
+tadalafil
+Chewable Tablet Tadalafil
+Daily Chewable Tablet Tadalafil 8.5 mg
+Daily Chewable Tablet Tadalafil 11.2mg
+tadalafil 5 mg as needed
+tadalafil 5 mg daily
+tadalafil 10 mg
+tadalafil 10 mg daily
+tadalafil 20 mg as needed
+tadalafil/fluoxetine 8.5mg/22.4mg
+tadalafil/fluoxetine 8.5mg/22.4mg daily.
+Tadalafil/Testosterone Support Supplement Blend, 8.5 mg
+Tadalafil/Testosterone Support Supplement Blend, 11.2 mg
+Tadalafil/Atorvastatin, 8.5mg / 11mg
+Tadalafil/Multivitamin Supplement Blend, 8.5 mg
+Tadalafil / Finasteride / Minoxidil, 8.5mg / 1.2mg / 3mg
+Tadalafil / Minoxidil, 8.5mg / 3mg
+generic Viagra
+generic Viagra 25mg
+generic Viagra 50mg
+generic Viagra 100mg
+paroxetine
+fluoxetine
+Prozac
+sertraline
+citalopram
+escitalopram
+Lexapro
+fluvoxamine
+sertraline 100 mg daily.
+sertraline 50 mg daily.
+sertraline 25 mg daily.
+venlafaxine
+desvenlafaxine
+duloxetine
+levomilnacipran
+milnacipran
+bupropion
+Wellbutrin
+propranolol
+propranolol 20 mg
+atorvastatin
+rosuvastatin
+simvastatin
+pravastatin
+lovastatin
+fluvastatin
+pitavastatin
+finasteride
+finasteride 1 mg
+minoxidil
+Chewable Tablet Finasteride/Minoxidil, 1.2mg/3mg
+Chewable Tablet Minoxidil 3 mg
+Topical 0.3% Finasteride & 6% Minoxidil Spray
+Topical Finasteride 0.3% / Minoxidil 7% / Ketoconazole 2.2% Spray
+Topical Solution with Ketoconazole 2.2%/Minoxidil 7%/Biotin 0.2%/Dexpanthenol 5%
+Oral Minoxidil 1.25 mg
+Oral Minoxidil 2.5 mg
+Oral Minoxidil with Hair Vitamins, 1.5 mg
+Chewable Minoxidil + Biotin 1.5mg/2.5mg
+Gummy Minoxidil + Biotin 1.5mg/2.5mg
+Reports good response to treatment without side effects.
+Reports inadequate response to treatment
+No contraindications to treatment
+Since you have not been treated with this type of medication in the past,
+Start treatment with
+Continue current treatment with
+Change treatment to
+ED, PE
+reportedly was normal at last office visit
+any changes in your health or medications since
+Affirms no changes in health or medications since last check-in.
+if you haven't already tried taking two of the current tablets to get that dose
+I see that you indicated that you'd like to be treated with tadalafil, which is a medication used for erectile dysfunction (ED), but indicated no difficulty getting or keeping a hard erection. Is there a particular reason that you want to be treated with the tadalafil?
+I have reviewed your check-in
+Androgenic alopecia
+without sign of inflammation or scarring
+Denies smooth bald spots or redness/crusting around hair follicles.
+Hair loss said to have stabilized.
+Hair loss is said to have improved.
+Hair loss is said to be worsening.
+general thinning
+thinning at the hairline
+thinning at the temples
+thinning on the top of the head
+bald patches, smooth and hairless not at the top of the head
+redness and irritation at sites of hair loss
+The common side effects of oral minoxidil include increased hair growth on the face or body, lightheadedness, palpitations or rapid heart beat, headaches, leg swelling or fluid retention (edema), swelling around the eyes, insomnia, or nausea.
+Upon a secondary review of your chart, it looks like we are waiting to hear from you
+I will flag customer support about your price question as I don't have that information.
+One of the required pre-treatment labs, the hematocrit (the percentage of your blood made up of red blood cells) wasn't able to be completed due to small sample size. The other labs done for safety, to rule out possible concerning causes of deficiency, are unremarkable. We do need the hematocrit before treatment to ensure safety. You'll be sent a second collection kit so that you can collect a second sample for that test to be run. We'll be in touch after that is complete, but if you have any or concerns don't hesitate to reach out.
+Take 1 tablet by mouth as needed 1 hour before sex. Do not take more than 1 tablet daily.
+I need to make sure that you're aware there can be negative effects from the Finasteride on mental health, such as poor mood (or depression), anxiety, and other effects. They do not happen to all, but it is a risk. If you want to take finasteride despite these risks (as it is a good medication for hair loss treatment) you can, but we will need you to respond indicating that you're aware of these risks and wish to proceed while monitoring for any negative effects.
+Oral minoxidil without finasteride (no significant mental health side effects), or Topical finasteride/minoxidil which is close to as effective and carries a much lower risk for mental health side effects.
+premature ejaculation
+Finasteride (generic for Propecia)
+We have somewhat limited treatment options in the state of Alabama due to regulations surrounding compounded medications.
+rewritten
+GERD
+HTN
+HLD
+He acknowledges the possible side effects from oral finasteride on mental health and wishes to proceed, accepting of these.
+Because the fluoxetine in this combination treatment is also a medication used for mental health treatments, we will need to know if you or a first degree (biological) relative (parents, "full" siblings, or children) have ever had severe mental illness, such as bipolar disorder, schizophrenia, or have been admitted for inpatient treatment for mental health (of any type) or has attempted or completed suicide.
+significant
+chewable
+chewable tablet
+chewable tablets
+tamsulosin
+(generic for Cialis)
+generic for Cialis
+(generic for Viagra)
+generic for Viagra
+(generic for Levitra)
+generic for Levitra
+(generic for Prozac)
+generic for Prozac
+(generic for Zoloft)
+generic for Zoloft
+(generic for Paxil)
+generic for Paxil
+(generic for Propecia)
+generic for Propecia
+subscription
+Hi, Dr. Tomcik again, have you been able to see the messages above about the need to change the prescription?
+Contraception Management
+For oral Finasteride, the most common side effects are decreased sex drive, difficulty with erections, and reduced ejaculate volume, which occur in 1-2% of users and usually improve if you stop the medication. Less common side effects include breast tenderness, mood changes, and allergic reactions.
