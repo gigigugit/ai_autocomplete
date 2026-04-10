@@ -1,0 +1,167 @@
+every week
+every month
+every year
+every morning
+every evening
+every night
+in 1 week
+in 2 weeks
+in 1 month
+in 3 months
+in 6 months
+in 12 months
+short-term
+long-term
+ongoing
+intermittent
+persistent
+temporary
+current
+currently
+previous
+previously
+prior
+recent
+recently
+initial
+initially
+final
+eventual
+ongoing treatment
+ongoing symptoms
+ongoing management
+continued
+continue
+continues
+continuing
+start
+starts
+started
+starting
+stop
+stops
+stopped
+stopping
+restart
+restarted
+increase
+increased
+increasing
+decrease
+decreased
+decreasing
+maintain
+maintained
+maintaining
+monitor
+monitored
+monitoring
+assess
+assessed
+assessing
+evaluation
+evaluate
+evaluated
+follow
+follows
+following
+improve
+improved
+improving
+worsen
+worsened
+worsening
+stabilize
+stabilized
+stabilizing
+respond
+responded
+responding
+response
+tolerate
+tolerated
+tolerating
+tolerance
+benefit
+benefits
+beneficial
+effective
+ineffective
+efficacy
+safety
+safe
+unsafe
+risk
+risks
+risky
+concern
+concerns
+concerning
+reassuring
+unremarkable
+remarkable
+significant
+insignificant
+mild
+moderate
+severe
+slight
+minimal
+marked
+stable
+unstable
+unchanged
+variable
+fluctuating
+improvement
+worsening symptoms
+persistent symptoms
+new symptoms
+ongoing symptoms
+reported symptoms
+associated symptoms
+related symptoms
+no symptoms
+no side effects
+no issues
+no concerns
+no complaints
+no changes
+no improvement
+no worsening
+no benefit
+good response
+poor response
+partial response
+adequate response
+inadequate response
+clinical response
+positive response
+negative response
+good tolerance
+poor tolerance
+well tolerated
+not tolerated
+common
+uncommon
+rare
+frequent
+infrequent
+occasional
+daily use
+routine use
+continued use
+long-term use
+short-term use
+as prescribed
+as recommended
+as discussed
+as above
+as below
+per routine
+per history
+per patient
+per chart
+per note
+per report
+per request
